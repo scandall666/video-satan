@@ -1,0 +1,20 @@
+<dir>
+  <title>Movies</title>
+  <tmdb>list/40449</tmdb>
+</dir>
+
+<dir>
+  <title>Sick Flix</title>
+  <tmdb>list/40470</tmdb>
+</dir>
+
+<dir>
+   <title>TMDB Top Rated</title>
+   <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <name>Satanic Shanon Movies</name>
+  <link></link>
+</dir>
+
