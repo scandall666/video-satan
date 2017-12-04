@@ -1,3 +1,6 @@
+
+****Movies****
+
 <dir>
   <title>Movies</title>
   <tmdb>list/40449</tmdb>
@@ -16,5 +19,15 @@
 <dir>
   <name>Satanic Shanon Movies</name>
   <link></link>
+</dir>
+
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
 </dir>
 
