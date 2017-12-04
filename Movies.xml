@@ -1,0 +1,28 @@
+<dir>
+  <title>Movies</title>
+  <tmdb>list/40449</tmdb>
+</dir>
+
+<dir>
+  <title>Sick Flix</title>
+  <tmdb>list/40470</tmdb>
+</dir>
+
+<dir>
+   <title>TMDB Top Rated</title>
+   <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <name>Satanic Shanon Movies</name>
+  <link>https://raw.githubusercontent.com/scandall666/video-satan/master/main.xml</link>
+</dir>
+
+<dir>
+  <name>Play LIST</name>
+  <link>https://raw.githubusercontent.com/scandall666/video-satan/master/main.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
