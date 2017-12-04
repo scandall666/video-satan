@@ -1,0 +1,32 @@
+
+****TV Show****
+
+<dir>
+   <title>TV Shows</title>
+   <tmdb>list/40475</tmdb>
+</dir>
+
+<dir>
+   <title>Popular TV Shows</title>
+   <tmdb>/tv</tmdb>
+</dir>
+
+<dir>
+   <title>Currently Airing TV Shows</title>
+   <tmdb>/tv/on-the-air</tmdb>
+</dir>
+
+<dir>
+   <title>TV Shows Airing Today</title>
+   <tmdb>/tv/airing-today</tmdb>
+</dir>
+
+<dir>
+   <title>Top Rated TV Shows</title>
+   <tmdb>/tv/top-rated</tmdb>
+</dir>
+
+<dir>
+   <title></title>
+   <tmdb></tmdb>
+</dir>
