@@ -1,0 +1,34 @@
+
+
+*********Genres*********
+
+
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Adventure Movies</title>
+   <tmdb>genre/movies/12</tmdb>
+</dir>
+  
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Action Movies</title>
+   <tmdb>genre/movies/28</tmdb>
+</dir>
+  
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Comedy Movies</title>
+   <tmdb>genre/movies/35</tmdb>
+</dir>
+  
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Crime Movies</title>
+   <tmdb>genre/movies/80</tmdb>
+</dir>
+ 
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Documentary Movies</title>
+   <tmdb>genre/movies/99</tmdb>
+</dir>
+  
+<dir>
+   <title>[COLORgold]TMDB[/COLOR] Horror Movies</title>
+   <tmdb>genre/movies/27</tmdb>
+</dir>
