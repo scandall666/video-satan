@@ -31,7 +31,7 @@
 </dir>
 
 <dir>
-   <titlePopular>TMDB Popular Movies</title>
+   <title>TMDB Popular Movies</title>
    <tmdb>movies/movies</tmdb>
 </dir>
 
