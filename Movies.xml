@@ -1,0 +1,78 @@
+
+****Movies****
+
+<dir>
+  <name>Genres</name>
+  <link>https://raw.githubusercontent.com/scandall666/video-satan/Movies/Genres.xml</link>
+  <animated_thumbnail></animated_thumbnail>
+  <thumbnail></thumbnail>
+  <animated_fanart></animated_fanart>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>Movies</title>
+  <tmdb>list/40449</tmdb>
+</dir>
+
+<dir>
+  <title>Sick Flix</title>
+  <tmdb>list/40470</tmdb>
+</dir>
+
+<dir>
+  <title>Upcoming Movies</title>
+  <tmdb>movie/upcoming</tmdb>
+</dir>
+
+<dir>
+  <title>Now Playing Movies</title>
+  <tmdb>movie/now-playing</tmdb>
+</dir>
+
+<dir>
+   <titlePopular>TMDB Popular Movies</title>
+   <tmdb>movies/movies</tmdb>
+</dir>
+
+<dir>
+   <title>TMDB Top Rated</title>
+   <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>Disney Classic Collection</title>
+  <tmdb>list/338</tmdb>
+</dir>
+
+<dir>
+  <title>The Marvel Universe</title>
+  <tmdb>list/1</tmdb>
+</dir>
+
+<dir>
+  <title>Best Picture Winners - The Golden Globes</title>
+  <tmdb>list/2469</tmdb>
+</dir>
+
+
+
+<dir>
+  <name>Satanic Shanon Movies</name>
+  <link></link>
+</dir>
+
+<dir>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+   <title></title>
+   <tmdb></tmdb>
+</dir>
